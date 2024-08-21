@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Java, C, javascript
 - 💞️ I’m looking to collaborate on ... lemme get the skills upgraded
 - 📫 How to reach me ...may be sometime later ;)
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I am hardcore Gamer and an otaku ^_^
 
 <!---
