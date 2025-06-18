@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Necrosis404 a.k.a SAIKAT SAHA
 - 👀 I’m interested in domains like Web development, AI, ML and languages like Python, C, Javascript
-- 🌱 I’m currently learning Java, C++, Flask, RESTAPI, GoLang
+- 🌱 I’m currently learning C++, Flask, Django, RESTAPI, GoLang, Vue.js
 - 💞️ I’m looking to collaborate on ... lemme get the skills upgraded
 - 📫 How to reach me ... if u can Find and contact me. ;)
 - ⚡ Fun fact: I am hardcore Gamer and an otaku ^_^
