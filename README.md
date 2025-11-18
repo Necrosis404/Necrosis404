@@ -10,7 +10,7 @@
 
 ## 🏷️ About Me
 
-I’m a Computer Science Engineering student passionate about building impactful tech in software engineering and AI. I thrive in creative, collaborative, and iterative development environments—with hands-on experience in building everything from Chrome extensions to cloud-based workflows.
+I’m a Computer Science Engineering student passionate about building impactful tech in software engineering and AI. I thrive in creative, collaborative, and iterative development environments with hands-on experience in building everything from Chrome extensions to cloud-based workflows.
 
 - 🛠️ **Hands-On:** Real-world apps, Chrome extensions, and creative ML projects
 - 💡 **Quick Learner:** Strong analytical and problem-solving skills
@@ -40,10 +40,10 @@ I’m a Computer Science Engineering student passionate about building impactful
 
 ## 🚀 Highlight Projects
 
-### 🔍 **Fake Reviews Detection (Chrome Extension)**
+### 🔍 **Fake Reviews Detection**
 > Python • Machine Learning • Flask • JavaScript  
 - Real-time Chrome extension for fake review detection (40,000+ reviews tested)
-- Achieved **85.7% accuracy** using NLP (NLTK, scikit-learn, SGD Classifier)
+- Achieved 85.7% accuracy using NLP (NLTK, scikit-learn, SGD Classifier)
 - Interactive one-click UI with responsive HTML/CSS/JS
 - Backend deployed with Flask and Joblib
 
